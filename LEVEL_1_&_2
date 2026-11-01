@@ -1,0 +1,56 @@
+SHADOWFOX INTERNSHIP – RETAIL SALES ANALYSIS
+
+Project Overview
+
+This repository contains the Retail Sales Analysis project completed as part of the ShadowFox Internship. It includes Beginner and Intermediate level tasks focused on exploring retail sales data and extracting meaningful business insights.
+
+Tasks Covered
+
+1. Beginner Level
+
+- Data Loading and Exploration
+- Data Cleaning and Preprocessing
+- Basic Statistical Analysis
+- Sales Data Visualization
+- Identifying Sales Trends
+
+2. Intermediate Level
+
+- Advanced Data Analysis
+- Customer Purchasing Behavior
+- Product Performance Analysis
+- Sales Trend Analysis
+- Business Insights and Recommendations
+
+Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+Project Objectives
+
+- Analyze retail sales performance.
+- Identify top-selling products.
+- Understand customer purchasing patterns.
+- Discover monthly and seasonal sales trends.
+- Generate useful business insights.
+
+Project Structure
+
+- Beginner Level – Retail Sales Analysis
+- Intermediate Level – Retail Sales Analysis
+
+Internship
+
+Organization: ShadowFox
+Domain: Data Analytics
+Project: Retail Sales Analysis
+Levels: Beginner & Intermediate
+
+Conclusion
+
+This project helps develop practical data analytics skills through real-world retail sales analysis, visualization, and business insight generation.
